@@ -1,0 +1,14 @@
+.input {
+  display: flex;
+  padding-top: 15px;
+  padding-left: 20px;
+  padding-bottom: 15px;
+  padding-right: 100px;
+  background: #eff3f4;
+  border-radius: 31px;
+}
+
+.search {
+  background-color: transparent;
+  border: none;
+}
